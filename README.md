@@ -1,1 +1,1 @@
-[![telegram](./tglogo.jpg)](https://t.me/gtoxlol) 
+[![telegram](./tglogo.png)](https://t.me/gtoxlol) 
